@@ -1,3 +1,4 @@
+# coding: utf-8
 import MeCab
 import pandas as pd
 import numpy as np
